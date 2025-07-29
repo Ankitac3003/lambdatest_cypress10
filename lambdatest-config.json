@@ -1,18 +1,11 @@
 {
    "lambdatest_auth": {
-      "username": "<Your LambdaTest username>",
-      "access_key": "<Your LambdaTest access key>"
+      "username": "ankitclambdatest",
+      "access_key": "LT_OnEL30AtoPH0BkcY83K0VnpQOcfFpX71axsfQgHGLhvNfUP"
    },
    "browsers": [
       {
          "browser": "Chrome",
-         "platform": "Windows 10",
-         "versions": [
-            "latest-1"
-         ]
-      },
-      {
-         "browser": "Firefox",
          "platform": "Windows 10",
          "versions": [
             "latest-1"
