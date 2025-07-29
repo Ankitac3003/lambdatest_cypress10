@@ -15,6 +15,7 @@
    "run_settings": {
       "reporter_config_file": "base_reporter_config.json",
       "build_name": "Cypress 10",
+      "downloads": "./cypress/results/mochawesome",
       "parallels": 1,
       "specs": "cypress/e2e/1-getting-started/*.cy.js",
       "ignore_files": "",
